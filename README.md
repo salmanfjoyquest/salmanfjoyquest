@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I’m Salman F Joy
+### Driven | Dynamic | Different
+*Where Vision Meets Adventure.*
 
-<!--
-**salmanfjoyquest/salmanfjoyquest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m a **tech-driven problem solver** who loves **building impactful systems** and living life to its fullest through exploration and learning.  
+I believe in **clarity, execution, and leadership.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Expertise
+- ⚙️ **Tech & Tools:** [List technologies, frameworks, or languages you're good at]
+- 💻 **Currently Working With:** [e.g., TypeScript, Next.js, Node.js]
+- 🌱 **Learning & Exploring:** [e.g., Blockchain, AI, DevOps]
+
+---
+
+## 🌍 Connect with Me
+- 📫 **Email:** [salmanfjoyquest@gmail.com]
+- 🔗 **Linktree/Portfolio:** [https://linktr.ee/salmanfjoyquest]
+- 💬 **Let's Talk:** [www.linkedin.com/in/salman-farsi-joy-quest]
+
+---
+
+_“Driven by vision. Living with adventure.”_
